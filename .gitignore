@@ -9,3 +9,6 @@ env/
 coverage.xml
 pip-wheel-metadata
 *.egg-info
+
+out/*.json
+breaks/*.json
